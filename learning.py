@@ -72,7 +72,7 @@ def todo(action):
         old_file = 'allfiles/' + input("OT&/" + username + " !!FILE TO RENAME?!!> ")
         new_file = 'allfiles/' + input("OT&/" + username + " !!NEW NAME (WITH EXTENSION)?!!> ")
         os.rename(old_file, new_file)
-        print(f"OT&/" + username + " !!RENAMED {old_file} TO {new_file}!!> ")
+        print(f"OT&/" + username + " !!RENAMED " + old_file + " TO " + new_file + "!!> ")
         g.write("\n")
         g.write(username + " renamed " + old_file + " to " + new_file)
         return True
