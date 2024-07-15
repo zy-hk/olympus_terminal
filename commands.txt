@@ -1,0 +1,14 @@
+Welcome to the Olympus Terminal (OT&) ! It is a useless terminal made for bored people!
+Here are the list of commands
+
+"boom" - creates a new txt file
+"draw" - renames a file
+"cook" - writes to a file
+"sea" - views all files
+"shoot" - deletes a file
+"hack" - reads a file
+"whoami" - view username
+"padlock" - view password
+"leave" - exit terminal
+
+

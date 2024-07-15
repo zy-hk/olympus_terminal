@@ -1,0 +1,10 @@
+Hello, admin.
+
+Admin commands:
+"records" - view records.txt
+"users" - view users.txt
+"remove" - remove user
+"add" - add user
+"view" - view admin.txt
+"write" - adds to admin.txt
+
