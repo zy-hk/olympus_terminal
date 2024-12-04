@@ -1,0 +1,7 @@
+Following are extended level 2 commands
+Level 2 access can be retracted at anytime. 
+
+
+"post" - post to public board
+"records" - view records.txt
+"everybody" - views all email adresses
