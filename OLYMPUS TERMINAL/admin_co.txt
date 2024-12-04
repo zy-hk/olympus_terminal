@@ -1,0 +1,15 @@
+Hello, admin.
+
+Admin commands:
+"records" - view records.txt
+"users" - view users.txt
+"remove" - remove user
+"add" - add user
+"view" - view admin.txt
+"write" - adds to admin.txt
+"second" - increase user access to level2
+"level2" - view level2.txt
+"post" - post to public board
+"board" - view the public board
+"inbox" - view admin email
+

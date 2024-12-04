@@ -1,0 +1,17 @@
+Welcome to the OLYMPUS Terminal (OT&) ! It is a useless terminal made for bored people!
+Here are the list of commands
+
+"help" - reread commands
+"inbox" - opens inbox
+"email" - sends email
+"boom" - creates a new txt file
+"draw" - renames a file
+"cook" - writes to a file
+"shoot" - deletes a file
+"hack" - reads a file
+"board" - view the public board
+"whoami" - view username
+"padlock" - view password
+"leave" - exit terminal
+
+

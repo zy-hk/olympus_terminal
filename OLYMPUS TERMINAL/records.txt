@@ -1,0 +1,200 @@
+admin checked level2.txt
+admin increased furina to level 2 access
+admin checked level2.txt
+admin increased furina to level 2 access
+admin checked level2.txtadmin logged in
+admin checked users.txt
+admin increased furina to level 2 access
+admin checked level2.txt
+admin checked records
+admin left
+
+furina logged in
+furina logged in
+furinachecked the public board
+furina logged in
+furina checked padlock
+furina added a post to public board.
+furinachecked the public board
+furina left
+
+furina logged in
+furinachecked the public board
+furina logged in
+furina added a post to public board.
+furinachecked the public board
+furina left
+admin logged in
+admin checked users.txt
+admin left
+
+kazu logged in
+kazu left
+admin logged in
+admin checked level2.txt
+admin increased kazu to level 2 access
+admin checked level2.txt
+adminchecked the public board
+kazu logged in
+admin checked records
+kazu sent a message to admin.
+kazu left
+admin logged in
+admin checked admin email
+admin added a post to public board.
+adminchecked the public board
+admin left
+
+RECORD PURGE
+OLD RECORD: 133 LINES
+NEW RECORD: 50 LINES
+New user registered: neuv
+
+furina logged in
+furina added a post to public board.
+furina left
+admin logged in
+adminchecked the public board
+admin added a post to public board.
+admin left
+
+kazu logged in
+kazuchecked the public board
+kazu added a post to public board.
+kazuchecked the public board
+kazu left
+admin logged in
+admin added a post to public board.
+adminchecked the public board
+admin left
+
+New user registered: rosie
+
+rosie logged in
+rosie created rosie.txt
+rosie added to allfiles/hehehe.txt
+rosie read allfiles/hehehe.txt
+rosie renamed allfiles/rosie.txt to allfiles/suspicious.txt
+rosiechecked the public board
+rosie left
+
+furina logged in
+furina sent a message to admin.
+furina left
+admin logged in
+admin checked records
+admin checked admin email
+admin added a post to public board.
+adminchecked the public board
+admin left
+
+New user registered: Dana
+
+Dana logged in
+Dana checked padlock
+Danachecked the public board
+Dana created Dana.txt
+Dana added to allfiles/Dana.txt
+Dana read allfiles/Dana.txt
+Dana left
+
+New user registered: zoey
+
+New user registered: zoe
+
+zoey logged in
+zoey left
+
+waterandrain logged in
+waterandrain left
+admin logged in
+admin checked level2.txt
+admin checked admin email
+adminchecked the public board
+admin checked records
+
+MANUAL : users PURGE
+New user registered: gwen
+
+New user registered: zyhk
+
+zyhk logged in
+zyhkchecked the public boardadmin logged in
+admin added a post to public board.
+admin left
+
+New user registered: gwen
+
+New user registered: gwen
+
+New user registered: john
+
+john logged in
+johnchecked the public board
+john left
+
+New user registered: sher
+admin logged in
+admin increased john to level 2 access
+admin increased zyhk to level 2 access
+admin increased sher to level 2 access
+admin increased gwen to level 2 access
+admin left
+
+zyhk logged in
+admin checked records
+zyhk added a post to public board.
+zyhk logged in
+zyhk logged in
+zyhk@omail.com sent an email to gwen@omail.com@omail.com .
+zyhk left
+
+zyhk logged in
+zyhk@omail.com sent an email to gwen@omail.com .
+zyhk left
+
+gwen logged in
+gwen checked their email
+gwen@omail.com sent an email to zyhk@omail.com .
+gwen left
+
+zyhk logged in
+zyhk checked their email
+zyhk@omail.com sent an email to gwen@omail.com .
+zyhk left
+
+zyhk logged in
+zyhk@omail.com sent an email to gwen@omail.com .
+zyhk added a post to public board.
+zyhk left
+
+gwen logged in
+gwen checked their email
+gwenchecked the public board
+gwen added a post to public board.
+gwen@omail.com sent an email to zyhk@omail.com .
+gwen left
+
+zyhk logged in
+zyhk checked their email
+zyhk@omail.com sent an email to gwen@omail.com .
+zyhk@omail.com sent an email to sher@omail.com .
+zyhk left
+
+zyhk logged in
+zyhk@omail.com sent an email to sher@omail.com .
+zyhk left
+
+sher logged in
+sher checked their email
+sher@omail.com sent an email to zyhk@omail.com .
+sher left
+
+zyhk logged in
+zyhk checked their email
+zyhk@omail.com sent an email to sher@omail.com .
+zyhk left
+
+sher logged in
+sher checked their email
+admin checked records
